@@ -1,0 +1,39 @@
+.index_container {
+    margin: auto;
+    width: 45%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.resume_container {
+    margin: auto;
+    width: 90%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.bio_container {
+    margin: auto;
+    width: 75%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+    padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+ul{
+	display: table;
+    margin: 0 auto;
+}
