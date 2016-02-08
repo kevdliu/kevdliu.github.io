@@ -1,21 +1,21 @@
 .index_container {
     margin: auto;
     width: 45%;
-    border: 3px solid #73AD21;
+    border: 3px solid #33b5e5;
     padding: 10px;
 }
 
 .resume_container {
     margin: auto;
     width: 90%;
-    border: 3px solid #73AD21;
+    border: 3px solid #0099cc;
     padding: 10px;
 }
 
 .bio_container {
     margin: auto;
     width: 75%;
-    border: 3px solid #73AD21;
+    border: 3px solid #00ddff;
     padding: 10px;
 }
 
